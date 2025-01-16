@@ -1,0 +1,51 @@
+* General Reset */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f8f9fa;
+  color: #333;
+}
+
+
+img {
+  border: 3px solid #000000;
+}
+
+
+h5 {
+  color: #0000FF; 
+  margin-top: 20px;
+}
+  h2 {
+  color: #0000FF;
+  }
+
+
+hr {
+  border: 1px solid #000000;
+}
+
+
+ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+ul li {
+  margin-bottom: 20px;
+  
+}
+
+.custom-navbar {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: #001f4d !important;
+}
+
+
+.custom-icon {
+    font-size: 24px;
+    line-height: 1;
+}
+.custom-footer {
+    background-color: #001f4d;
+}
